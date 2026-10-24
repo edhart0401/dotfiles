@@ -1,5 +1,6 @@
 alias claude-dang="claude --dangerously-skip-permissions"
 alias cdd="cd ../"
+alias dc="cd"
 alias venv="source ./.venv/bin/activate"
 alias ll="ls -l"
 alias lla="ls -la"
